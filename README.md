@@ -1,2 +1,3 @@
 # Data_Analysis_Potfolio
-My name is Emuebie Grace Chifumnaya
+My name is EMUEBIE GRACE CHIFUMNAYA, a data analyst passionate about turning data into insights. Am committed to delievering high-quality analysis and visualization that drive business outcomes.
+This portfolio showcases my expertise as a data analyst, highlighting my skills in using EXCEL, POWERBI, TABLEA, SQL, and <b>PYTHON</b> to drive business insights and inform decision-making. within this repository, you will find a curated collection of my projects, demonstrating my ability to analyze complex datasets, create interactive visualization, and develop actionable recommendation.
